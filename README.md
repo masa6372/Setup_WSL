@@ -1,1 +1,1 @@
-#WSL settings to install NeoVim and YouCompleteMe
+# WSL settings to install NeoVim and YouCompleteMe
