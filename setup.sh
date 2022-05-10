@@ -20,3 +20,8 @@ pip3 install --user pynvim
 #install cmake & llvm for YouCompleteMe
 sudo apt install cmake
 sudo apt install llvm
+
+#install python library
+pip3 install numpy
+pip3 install matplotlib
+pip3 install scipy
